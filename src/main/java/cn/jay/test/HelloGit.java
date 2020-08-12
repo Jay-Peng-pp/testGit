@@ -8,6 +8,7 @@ public class HelloGit {
 		System.out.println("主干的第八行");
 		System.out.println("分支1的第八行");
         System.out.println("分支1的第八行");
+        System.out.println("更新本地仓库");
 
 	}
 
